@@ -34,8 +34,8 @@ def create_month_template(month, year,dir):
 
     # Create base folder
     base_folder = os.path.join(dir, month_folder)
+    print(base_folder)
     os.makedirs(base_folder, exist_ok=True)
-    os.chdir(base_folder)
 
     # Create subfolders for each day and generate readme
     for day in days_in_month:
@@ -54,5 +54,5 @@ def create_month_template(month, year,dir):
 if __name__ == "__main__":
     year = 2024
     month = 5  # Example for May 2024
-    dir = './EveryDayCoding'
+    dir = 'EveryDayCoding'
     create_month_template(month, year,dir)
