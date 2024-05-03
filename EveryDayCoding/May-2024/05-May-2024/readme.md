@@ -9,7 +9,7 @@
 <h3>Things I'm grateful for </h3>
 
 <ul>
-    <li>As of now I'm grateful for the less work pressure in the new team.</li>
+    <li>As of now I'm grateful for the less work pressure in the new teama at IBM.</li>
 </ul>
 
 <h3>Links And Resources </h3>
