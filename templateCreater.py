@@ -11,7 +11,7 @@ def generate_readme(date):
     <li>...</li>
 </ul>
 
-<h3>Things I'm grateful for </h3>
+<h3>Things I was thiking today</h3>
 
 <ul>
     <li>...</li>
