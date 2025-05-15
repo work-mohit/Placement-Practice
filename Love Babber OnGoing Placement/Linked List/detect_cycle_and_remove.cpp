@@ -125,6 +125,8 @@ Node* startingOfLoop(Node* head){
     }
     return NULL;
 }
+
+//  it's all about breaking the connection that completes the loop by connecting to the node from where the loop originates.
 void removeLoop(Node* head){
     if(head == NULL)
         return;
